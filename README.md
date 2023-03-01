@@ -1,1 +1,3 @@
-# data_scince
+# data_science
+
+1. NumPy
